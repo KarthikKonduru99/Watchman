@@ -1,0 +1,6 @@
+target
+**/*.rs.bk
+NDK
+.cargo/config
+*.zip
+*.profraw
